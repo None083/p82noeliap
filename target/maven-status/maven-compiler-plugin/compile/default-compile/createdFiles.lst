@@ -1,0 +1,7 @@
+controladores/exceptions/IllegalOrphanException.class
+p82noelia/Programa.class
+controladores/FacturaJpaController.class
+controladores/exceptions/PreexistingEntityException.class
+entities/Factura_.class
+entities/Factura.class
+controladores/exceptions/NonexistentEntityException.class

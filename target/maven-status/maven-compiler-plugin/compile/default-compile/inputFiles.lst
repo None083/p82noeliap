@@ -1,0 +1,6 @@
+/home/noelia/NetBeansProjects/p82NoeliaP/src/main/java/controladores/exceptions/NonexistentEntityException.java
+/home/noelia/NetBeansProjects/p82NoeliaP/src/main/java/p82noelia/Programa.java
+/home/noelia/NetBeansProjects/p82NoeliaP/src/main/java/entities/Factura.java
+/home/noelia/NetBeansProjects/p82NoeliaP/src/main/java/controladores/FacturaJpaController.java
+/home/noelia/NetBeansProjects/p82NoeliaP/src/main/java/controladores/exceptions/PreexistingEntityException.java
+/home/noelia/NetBeansProjects/p82NoeliaP/src/main/java/controladores/exceptions/IllegalOrphanException.java
