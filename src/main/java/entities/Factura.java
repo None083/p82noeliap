@@ -54,9 +54,10 @@ public class Factura implements Serializable {
         this.codigo = codigo;
     }
 
-    public Factura(String codigo, Date fechaEmision, BigDecimal totalImporte) {
+    public Factura(String codigo, Date fechaEmision, String descripcion, BigDecimal totalImporte) {
         this.codigo = codigo;
         this.fechaEmision = fechaEmision;
+        this.descripcion = descripcion;
         this.totalImporte = totalImporte;
     }
 
@@ -114,7 +115,9 @@ public class Factura implements Serializable {
 
     @Override
     public String toString() {
-        return "p82noeliap.Factura[ codigo=" + codigo + " ]";
+        return "Factura{" + "codigo=" + codigo + ", fechaEmision=" + fechaEmision + ", descripcion=" + descripcion + ", totalImporte=" + totalImporte + '}';
     }
+
+    
     
 }
